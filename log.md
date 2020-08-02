@@ -9,3 +9,10 @@
 **More Info**
 1. First contest: All India Contest by Mission Helix | 1 August
 2. Second contest: HackerEarth | CodeArena
+
+
+### Day 2: August 2, Sunday
+
+**Today's Progress**: I started working on an android app named - "About me" using kotlin.
+
+**Thoughts**: I am learning android development since the last week and this is my first app made by myself i.e. no code along project.
