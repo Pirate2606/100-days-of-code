@@ -16,3 +16,10 @@
 **Today's Progress**: I started working on an android app named - "About me" using kotlin.
 
 **Thoughts**: I am learning android development since the last week and this is my first app made by myself i.e. no code along project.
+
+
+### Day 3: August 3, Monday
+
+**Today's Progress**: Learned a lot about views in android and started coding in XML for writing those views.
+
+**Thoughts**: Initially I was using the drag and drop feature of the android studio but now I started coding the code rather than drag and drop.
