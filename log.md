@@ -23,3 +23,10 @@
 **Today's Progress**: Learned a lot about views in android and started coding in XML for writing those views.
 
 **Thoughts**: Initially I was using the drag and drop feature of the android studio but now I started coding the code rather than drag and drop.
+
+
+### Day 5: August 5, Wednesday
+
+**Today's Progress**: Finally finished my "About me" android app and also started front-end development.
+
+**Thoughts**: Today I completed the "about me" app by making the app more efficient by adding data classes and binding views.
