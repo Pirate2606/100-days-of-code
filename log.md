@@ -30,3 +30,9 @@
 **Today's Progress**: Finally finished my "About me" android app and also started front-end development.
 
 **Thoughts**: Today I completed the "about me" app by making the app more efficient by adding data classes and binding views.
+
+### Day 6: August 6, Thursday
+
+**Today's Progress**: Completed the HTML part if the front-end development and started CSS.
+
+**Thoughts**: I completed the really interactive course of HTML at freecodecamp and then started CSS.
