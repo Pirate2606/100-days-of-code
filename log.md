@@ -31,8 +31,19 @@
 
 **Thoughts**: Today I completed the "about me" app by making the app more efficient by adding data classes and binding views.
 
+
 ### Day 6: August 6, Thursday
 
 **Today's Progress**: Completed the HTML part if the front-end development and started CSS.
 
 **Thoughts**: I completed the really interactive course of HTML at freecodecamp and then started CSS.
+
+
+### Day 7: August 7, Friday
+
+**Today's Progress**: Completed the "Scientific Computing with pyhton" course in freecodecamp and got a certificate for that.
+
+**Thoughts**: The 5 projects for the final task of the course were really difficult but somehow I managed to solve them all.
+
+**More Info**
+    <img src="images/freeCodeCamp-python.png">
