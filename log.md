@@ -47,3 +47,10 @@
 
 **More Info**
     <img src="images/freeCodeCamp-python.png">
+
+
+### Day 8: August 8, Saturday
+
+**Today's Progress**: Solved 3 questions from the codechef august long challenge and I am currently rank 4324 globally.
+
+**Thoughts**: Very long and tiring day.
