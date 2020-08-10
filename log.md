@@ -54,3 +54,10 @@
 **Today's Progress**: Solved 3 questions from the codechef august long challenge and I am currently rank 4324 globally.
 
 **Thoughts**: Very long and tiring day.
+
+
+### Day 9/10: August 9-10, Sunday-Monday
+
+**Today's Progress**: Completed the front-end development course at udemy and started creating a "Rock paper scissors" app game.
+
+**Thoughts**: Due to python - flask course i was not able to concentrate more on coding.
