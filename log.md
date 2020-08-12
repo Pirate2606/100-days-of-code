@@ -56,8 +56,18 @@
 **Thoughts**: Very long and tiring day.
 
 
-### Day 9/10: August 9-10, Sunday-Monday
+### Day 9-10: August 9-10, Sunday-Monday
 
 **Today's Progress**: Completed the front-end development course at udemy and started creating a "Rock paper scissors" app game.
 
 **Thoughts**: Due to python - flask course i was not able to concentrate more on coding.
+
+
+### Day 11-12: August 11-12, Tuesday-Wednesday
+
+**Today's Progress**: Completed my "Rock paper scissors" app.
+
+**Thoughts**: This app was my first major android app which was not a code along project.
+
+**More Info**
+    <img src="images/rockPaperScissors.jpeg">
