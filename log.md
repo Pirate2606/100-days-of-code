@@ -73,9 +73,18 @@
     <img src="images/rockPaperScissors.jpeg">
 
 
-
 ### Day 13: August 13, Thursday
 
 **Today's Progress**: Started working on a Calculator android app.
 
 **Thoughts**: Working with this app taught me how to work with more than 1 button.
+
+
+### Day 14: August 14, Friday
+
+**Today's Progress**: Completed my Calculator android app.
+
+**Thoughts**: Learned about working with two activities in a single project.
+
+**More Info**
+    <img src="images/calculator.png">
